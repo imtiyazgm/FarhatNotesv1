@@ -1,2 +1,2 @@
 # FarhatNotesv1
-Notes Managment
+Notes Managment ....Class notes 
