@@ -1,0 +1,1 @@
+web: gunicorn FarhatNotes.wsgi --log-file -
